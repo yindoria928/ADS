@@ -1,0 +1,3 @@
+ My DS ALgorithms:
+ 1. Linear Regression
+ 2. XGBoost
