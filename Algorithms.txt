@@ -1,0 +1,4 @@
+My Favourite ALgorithms:
+1. LSTM
+2. GANs
+3. PageRank
